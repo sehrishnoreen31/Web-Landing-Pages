@@ -7,6 +7,7 @@
 
 body{
     background-color: rgb(247, 253, 221);
+    margin: 0 auto;
 }
 
 .header{
@@ -44,8 +45,9 @@ body{
         & ul{
             display: flex;
             flex-direction: row;
+            flex-wrap: wrap;
             list-style: none;
-            gap: 1rem;
+            gap: 1.5rem;
             padding: 2px;
             & li{
                 & a{

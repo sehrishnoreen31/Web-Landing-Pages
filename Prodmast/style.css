@@ -147,7 +147,7 @@ nav ul li a{
     flex-direction: column;
     text-align: center;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-end;
     background-color: #fcebbe;
     backdrop-filter: blur(5px);
     padding: 20px 10px;

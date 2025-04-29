@@ -185,7 +185,7 @@ nav ul li a{
  .content .card2{
     background-color: #ffffff;
     color: #10243a;
-    height: 8rem;
+    height: 10rem;
     & span{
         font-size: 30px;
         padding: 10px 0;
